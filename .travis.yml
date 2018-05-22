@@ -17,7 +17,8 @@ before_script:
 
 
 script:
-  - npm run start
+  - npm run dev
+  
 
 after_script:
   - cd ./dist
