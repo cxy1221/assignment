@@ -17,7 +17,7 @@ before_script:
 
 
 script:
-  - npm run dev
+  - npm run build
   
 
 after_script:
