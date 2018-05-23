@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development",
+    "dev": "webpack",
     "build": "webpack-dev-server",
     "start": "opener http://localhost:8080 & webpack-dev-server",
 	"test":"react-scripts test --env=jsdom"
