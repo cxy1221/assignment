@@ -1,3 +1,0 @@
-{obj[0].name}
-const s='[{"name":"苦难辉煌","price":"68.00","author":"金一南"},{"name":"cxh1","sex":"man1"}]';
-const obj = s.parseJSON();
